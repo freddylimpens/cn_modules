@@ -1,6 +1,6 @@
 LANGUAGE:   fr
 TITLE:   Représentation numérique de l'information : les documents
-MENUTITLE: Les documents
+MENUTITLE: Les SUPER documents
 AUTHOR:     Culture numérique
 CSS: http://culturenumerique.univ-lille3.fr/css/base.css
 
