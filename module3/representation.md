@@ -4,7 +4,7 @@ MENUTITLE: Les beaux documents
 AUTHOR:     Culture numérique
 CSS: http://culturenumerique.univ-lille3.fr/css/base.css
 
-# Représenter c'est choisir...
+# Représenter c'est bien hoisir...
 
 [Representer c'est choisir](https://player.vimeo.com/video/149277667){: .lien_video }
 
