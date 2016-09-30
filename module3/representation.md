@@ -15,6 +15,8 @@ par une machine pour qu'elle puisse le stocker et l'afficher. Il faut
 donc représenter le roman comme une suite de 0 et de 1 et inversement
 passer de cette suite de 0 et 1 en un texte lisible.
 
+et puis des belles choses
+
 Il faut aussi pouvoir échanger. Plutôt que de se prêter un roman sur
 support papier, c'est sa représentation numérique qui sera copiée à
 travers le réseau. Il est donc nécessaire que l'émetteur et le
